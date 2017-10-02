@@ -1,0 +1,9 @@
+framework\MenuBarPage.class
+framework\SearchResultPage.class
+framework\TestRunner.class
+stepdefinition\SearchPageSD.class
+stepdefinition\SignUpSD.class
+framework\BasePage.class
+stepdefinition\MenuBarSD.class
+stepdefinition\SharedSD.class
+framework\HomePage.class
